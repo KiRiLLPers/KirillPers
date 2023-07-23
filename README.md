@@ -6,6 +6,7 @@
 - 🚀 Умею писать хороший код на таких языках, как: JavaScript, HTML, CSS. Этот список будет пополняться, обещаю :) 🤣
 - 👨‍🎓 Имею опыт работы с фреймворками: React.js, Yii2, Angular
 - 💖 Специализируюсь на написании адаптивных, кроссбраузерных сайтов разной сложности
+- 🥷 Стэк: React.js, node.js, express.js, MongoDB, JS, HTML, CSS, SCSS, Webpack, npm
 - 📫 Мои контакты:
-    ✍ E-mail: pershin.kirill.nstu@mail.ru
-    * VK/Telegram: @pershinK23
+  * 📩 E-mail: pershin.kirill.nstu@mail.ru
+  * ✓ Telegram: @pershinK23
