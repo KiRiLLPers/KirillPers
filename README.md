@@ -21,7 +21,7 @@
 </div>
 
 - 📫 Мои контакты:
-  * 📩 E-mail: pershin.kirill.nstu@mail.ru
-  * ✓ Telegram: @pershinK23
+  * 📩 E-mail: kmpershin@gmail.com
+  * ✓ Telegram: @kmpershin
  
  
